@@ -1,0 +1,3 @@
+
+def sun():
+  print num
